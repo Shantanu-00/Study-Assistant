@@ -17,7 +17,7 @@ AI-powered tool for focus detection and automated summarization to help students
 </p>
 
 <p>
-  <img src="./images/distraction.png" alt="Distraction detection view" width="48%" />
+  <img src="./images/detection.png" alt="Distraction detection view" width="48%" />
   <img src="./images/quiz.png" alt="Quiz interface" width="48%" />
 </p>
 
