@@ -1,0 +1,55 @@
+2025-03-24_09-04-51 - Dozing detected - Image: logs\Dozing_2025-03-24_09-04-51.jpg
+2025-03-24_09-05-01 - Dozing detected - Image: logs\Dozing_2025-03-24_09-05-01.jpg
+2025-03-24_09-05-06 - Dozing detected - Image: logs\Dozing_2025-03-24_09-05-06.jpg
+2025-03-24_09-05-23 - Dozing detected - Image: logs\Dozing_2025-03-24_09-05-23.jpg
+2025-03-24_09-05-33 - Dozing detected - Image: logs\Dozing_2025-03-24_09-05-33.jpg
+2025-03-24_09-05-39 - Mobile Phone detected - Image: logs\Mobile Phone_2025-03-24_09-05-39.jpg
+2025-03-24_09-05-44 - Dozing detected - Image: logs\Dozing_2025-03-24_09-05-44.jpg
+2025-03-24_09-05-59 - Dozing detected - Image: logs\Dozing_2025-03-24_09-05-59.jpg
+2025-03-27_19-55-00 - Dozing detected - Image: logs\Dozing_2025-03-27_19-55-00.jpg
+2025-03-27_19-55-09 - Mobile Phone detected - Image: logs\Mobile Phone_2025-03-27_19-55-09.jpg
+2025-03-27_20-01-48 - Mobile Phone detected - Image: logs\Mobile Phone_2025-03-27_20-01-48.jpg
+2025-03-27_20-03-36 - Mobile Phone detected - Image: logs\Mobile Phone_2025-03-27_20-03-36.jpg
+2025-03-27_20-03-41 - Mobile Phone detected - Image: logs\Mobile Phone_2025-03-27_20-03-41.jpg
+2025-03-27_20-08-38 - Mobile Phone detected - Image: logs\Mobile Phone_2025-03-27_20-08-38.jpg
+2025-03-27_20-15-56 - Mobile Phone detected - Image: logs\Mobile Phone_2025-03-27_20-15-56.jpg
+2025-03-27_20-19-19 - Dozing detected - Image: logs\Dozing_2025-03-27_20-19-19.jpg
+2025-04-09_14-31-11 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-09_14-31-11.jpg
+2025-04-14_16-02-34 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-02-34.jpg
+2025-04-14_16-02-40 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-02-40.jpg
+2025-04-14_16-02-46 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-02-46.jpg
+2025-04-14_16-02-52 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-02-52.jpg
+2025-04-14_16-03-01 - Dozing detected - Image: logs\Dozing_2025-04-14_16-03-01.jpg
+2025-04-14_16-03-07 - Dozing detected - Image: logs\Dozing_2025-04-14_16-03-07.jpg
+2025-04-14_16-16-16 - Dozing detected - Image: logs\Dozing_2025-04-14_16-16-16.jpg
+2025-04-14_16-16-22 - Dozing detected - Image: logs\Dozing_2025-04-14_16-16-22.jpg
+2025-04-14_16-18-10 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-18-10.jpg
+2025-04-14_16-18-16 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-18-16.jpg
+2025-04-14_16-18-23 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-18-23.jpg
+2025-04-14_16-20-10 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-20-10.jpg
+2025-04-14_16-20-21 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-20-21.jpg
+2025-04-14_16-21-52 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-21-52.jpg
+2025-04-14_16-22-02 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-22-02.jpg
+2025-04-14_16-23-27 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-23-27.jpg
+2025-04-14_16-23-43 - Dozing detected - Image: logs\Dozing_2025-04-14_16-23-43.jpg
+2025-04-14_16-26-51 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-26-51.jpg
+2025-04-14_16-54-44 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-54-44.jpg
+2025-04-14_16-55-22 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-14_16-55-22.jpg
+2025-04-15_16-24-51 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-15_16-24-51.jpg
+2025-04-15_16-25-00 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-15_16-25-00.jpg
+2025-04-15_16-25-38 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-15_16-25-38.jpg
+2025-04-15_16-45-50 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-15_16-45-50.jpg
+2025-04-25_09-32-29 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-25_09-32-29.jpg
+2025-04-25_09-32-34 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-25_09-32-34.jpg
+2025-04-25_09-32-39 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-25_09-32-39.jpg
+2025-04-25_09-32-44 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-25_09-32-44.jpg
+2025-04-25_09-32-49 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-25_09-32-49.jpg
+2025-04-25_09-32-54 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-25_09-32-54.jpg
+2025-04-25_09-32-59 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-25_09-32-59.jpg
+2025-04-25_09-33-04 - Mobile Phone detected - Image: logs\Mobile Phone_2025-04-25_09-33-04.jpg
+2025-06-11_17-21-52 - Dozing detected - Image: logs\Dozing_2025-06-11_17-21-52.jpg
+2025-06-11_17-22-06 - Mobile Phone detected - Image: logs\Mobile Phone_2025-06-11_17-22-06.jpg
+2025-06-11_17-24-27 - Mobile Phone detected - Image: logs\Mobile Phone_2025-06-11_17-24-27.jpg
+2025-06-11_17-24-32 - Mobile Phone detected - Image: logs\Mobile Phone_2025-06-11_17-24-32.jpg
+2025-06-11_17-29-26 - Dozing detected - Image: logs\Dozing_2025-06-11_17-29-26.jpg
+2025-06-11_17-30-38 - Dozing detected - Image: logs\Dozing_2025-06-11_17-30-38.jpg
